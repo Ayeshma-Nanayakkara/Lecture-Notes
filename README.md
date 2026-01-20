@@ -1,4 +1,1 @@
----
-title: "UML Diagrams"
-format: revealjs
----
+## UML Diagrams
