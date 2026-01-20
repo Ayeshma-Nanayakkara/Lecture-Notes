@@ -1,6 +1,5 @@
-# SOFTWARE ENGINEERING- UML DIAGRAMS
 
-## SLDC Life cycle: January 19,2026
+## SLDC Life cycle
 [Slides 1]()
 ## Class Diagram
 [Slides 2]()
