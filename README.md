@@ -5,4 +5,4 @@
 ## UML Class Diagram
 - [UML Class Diagram](https://ayeshma-nanayakkara.github.io/UML/Class.html)
 ## UML Activity Diagram
-- [UML Activity Diagram](https://ayeshma-nanayakkara.github.io/UML/Activity.html)
+- [UML Activity Diagram](https://ayeshma-nanayakkara.github.io/UML/activity.html)
