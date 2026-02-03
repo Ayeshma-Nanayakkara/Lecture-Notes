@@ -6,3 +6,5 @@
 - [UML Class Diagram](https://ayeshma-nanayakkara.github.io/UML/Class.html)
 ## UML Activity Diagram
 - [UML Activity Diagram](https://ayeshma-nanayakkara.github.io/UML/activity.html)
+## UML Usecase Diagram
+- [UML Usecase Diagram](https://ayeshma-nanayakkara.github.io/UML/usecase.html)
